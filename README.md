@@ -96,7 +96,7 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=aduayom&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=diakitegaoussou4996&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
