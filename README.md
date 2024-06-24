@@ -8,14 +8,14 @@ Currently, I am exploring research and proposing innovative solutions through pr
 ### Social media: 📡    
 Join me on LinkedIn, where I share insights and discuss my ongoing research interests, as well as my detailed professional journey and research articles from my university.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-messan/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/daniel-messan/](https://www.linkedin.com/in/gaoussou-diakit%C3%A9-4a820417b/))
 
 
 ### Working on: 🚀
 
-- Lead Prediction B2C Model 
-- Marketing Topic Modeling Model 
-- Establishment of Detailed Repository for Basic Prediction Models
+- 
+- 
+- 
 
 ## Languages and Tools 
 <div>
@@ -79,7 +79,7 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=aduayom&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=diakitegaoussou4996&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -89,8 +89,8 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=aduayom&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduayom&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=diakitegaoussou4996&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diakitegaoussou4996&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
@@ -106,6 +106,6 @@ Join me on LinkedIn, where I share insights and discuss my ongoing research inte
 
 
 ### How to reach me :mailbox:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-messan/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaoussou-diakit%C3%A9-4a820417b/)
 
 
